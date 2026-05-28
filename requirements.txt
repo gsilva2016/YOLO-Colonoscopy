@@ -3,3 +3,5 @@ torchvision
 opencv-python
 matplotlib
 seaborn
+openvino==2026.2.0
+ultralytics==8.4.56
