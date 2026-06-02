@@ -51,23 +51,23 @@ data_test_label_folder = f"{data_test_root}/labels/test/"  # Folder with ground 
 
 
 # === MODELS ===
-yolo8_model_name = "yolov8s"
+yolo8_model_name = "yolov8n"
 yolo8_model_config = f"{download_model_root}/{yolo8_model_name}.pt"
 yolo8_model_path = f"{results_saved_model_root}/{yolo8_model_name}.pt"
 
-yolo9_model_name = "yolov9s"
+yolo9_model_name = "yolov9n"
 yolo9_model_config = f"{download_model_root}/{yolo9_model_name}.pt"
 yolo9_model_path = f"{results_saved_model_root}/{yolo9_model_name}.pt"
 
-yolo10_model_name = "yolov10s"
+yolo10_model_name = "yolov10n"
 yolo10_model_config = f"{download_model_root}/{yolo10_model_name}.pt"
 yolo10_model_path = f"{results_saved_model_root}/{yolo10_model_name}.pt"
 
-yolo11_model_name = "yolo11s"
+yolo11_model_name = "yolo11n"
 yolo11_model_config = f"{download_model_root}/{yolo11_model_name}.pt"
 yolo11_model_path = f"{results_saved_model_root}/{yolo11_model_name}.pt"
 
-yolo12_model_name = "yolo12s"
+yolo12_model_name = "yolo12n"
 yolo12_model_config = f"{download_model_root}/{yolo12_model_name}.pt"
 yolo12_model_path = f"{results_saved_model_root}/{yolo12_model_name}.pt"
 
@@ -84,7 +84,7 @@ yoloworld_model_config = f"{download_model_root}/{yoloworld_model_name}.pt"
 yoloworld_model_path = f"{results_saved_model_root}/{yoloworld_model_name}.pt"
 
 
-yolo26_model_name = "yolo26s"
+yolo26_model_name = "yolo26n"
 yolo26_model_config = f"{download_model_root}/{yolo26_model_name}.pt"
 yolo26_model_path = f"{results_saved_model_root}/{yolo26_model_name}.pt"
 
